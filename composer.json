@@ -1,0 +1,19 @@
+{
+    "name": "uxin/oplog",
+    "description": "just for test",
+    "authors": [
+        {
+            "name": "caoxiangyun",
+            "email": "caoxiangyun@xin.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "MiddleLog\\Oplog\\": "src/"
+
+        }
+    }
+}
