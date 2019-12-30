@@ -7,11 +7,11 @@ namespace MiddleLog\Oplog;
 class OpService
 {
     public function printUxin(){
-        echo 'oplog success';
+        echo 'oplog success!';
     }
 
     public function saveLog(){
-        echo 'save log down';
+        echo 'save log down!';
     }
 
 }
